@@ -11,3 +11,4 @@ build/
 classes
 out
 .DS_STORE
+.VS_CODE
